@@ -1,0 +1,10 @@
+# Create a file named updated-requirements.txt with these contents:
+numpy==1.26.3
+opencv-python==4.9.0.80
+pillow==10.2.0
+tensorflow==2.16.1
+scikit-learn==1.4.0
+exifread==3.0.0
+imagehash==4.3.1
+customtkinter==5.2.1
+tqdm==4.66.1
