@@ -11,7 +11,7 @@ from .face_detector import FaceDetector
 from .location_extractor import LocationExtractor
 from .duplicate_finder import DuplicateFinder
 from .scenery_classifier import SceneryClassifier
-akshat="Chutiya"
+
 
 class ImageProcessor:
     """Main image processing class that orchestrates the sorting process"""
