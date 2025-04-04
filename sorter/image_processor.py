@@ -11,7 +11,7 @@ from .face_detector import FaceDetector
 from .location_extractor import LocationExtractor
 from .duplicate_finder import DuplicateFinder
 from .scenery_classifier import SceneryClassifier
-
+akshat="Chutiya"
 
 class ImageProcessor:
     """Main image processing class that orchestrates the sorting process"""
@@ -153,3 +153,4 @@ class ImageProcessor:
         for img_path in self.results['scenery']:
             dest = os.path.join(output_dir, 'scenery', os.path.basename(img_path))
             shutil.copy2(img_path, dest)
+

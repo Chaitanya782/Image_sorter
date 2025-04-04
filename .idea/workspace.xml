@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7701d873-28e8-444e-8a37-3d715aa8ad59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/image_sorter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorter/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorter/duplicate_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorter/face_detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorter/image_processor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorter/location_extractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorter/scenery_classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/file_handler.py" afterDir="false" />
+    <list default="true" id="7701d873-28e8-444e-8a37-3d715aa8ad59" name="Changes" comment="Final_draft">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +29,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/manisha/PycharmProjects/image_sorter"
   }
 }]]></component>
@@ -68,7 +49,20 @@
       <option name="presentableId" value="Default" />
       <updated>1743763916699</updated>
     </task>
+    <task id="LOCAL-00001" summary="Final_draft">
+      <option name="closed" value="true" />
+      <created>1743783612181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743783612182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final_draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final_draft" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
